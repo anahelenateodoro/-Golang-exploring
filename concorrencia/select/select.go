@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"html"
+	"github/cod3rcurso/html"
 	"time"
 )
 
